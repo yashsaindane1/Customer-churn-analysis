@@ -1,4 +1,5 @@
 
+Churn Insights: End-to-End Telecom Customer Churn Analysis Dashboard
 
 ## 1. 📌 Project Title / Headline
 
